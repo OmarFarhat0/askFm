@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1663919665 source:e:\omar\c++\project_ask\main.cpp
+	<iostream>
+	<vector>
+
